@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+    "name": "Rugged Fit Jacket",
+    "category": "Jackets",
+    "brand": "ShowOff",
+    "price": 10,
+    "stock": 50,
+    "description": "Stylish brown utility jacket with a soft inner lining, button closure, and durable fabric. Perfect for casual wear and winter outfits.",
+    "image": "/images/jacket-1.jpg"
+},
+{
+  "id": 2,
+  "name": "Classic Stiletto Heels",
+  "category": "Foot Wears",
+  "brand": "Skinn",
+  "price": 0,
+  "stock": 30,
+  "image": "/images/Heel-1.jpg",
+  "description": "Elegant high heels with a stylish dual-tone design, ankle strap support, and comfortable fit. Perfect for parties, formal events, and modern fashion looks."
+},
+  {
+    "id": 3,
+    "name": "Elegant Flared Skirt",
+    "category": "Newly Arived",
+    "brand": "Aadvika",
+    "price": 0,
+    "stock": 100,
+    "image": "/images/clothes-3.jpg",
+    "description": "Stylish flared skirt with a graceful flow and elegant detailing. Perfect for casual outings and chic fashion looks."
+  },
+  {
+    "id": 4,
+    "name": "Classic Denim Shirt",
+    "category": "Shirts",
+    "brand": "Arrow",
+    "price": 0,
+    "stock": 100,
+    "image": "/images/shirt-3.jpg",
+    "description": "Stylish light denim shirt with a comfortable fit and button-down design. Perfect for casual everyday wear."
+  },
+  {
+    "id": 5,
+    "name": "Checked Casual Shirt",
+    "category": "Shirts",
+    "brand": "Arrow",
+    "price": 0,
+    "stock": 100,
+    "image": "/images/shirt-grey.jpg",
+    "description": "Comfortable checked shirt with a modern slim fit and soft fabric. Ideal for casual and smart looks."
+  },
+  {
+    "id": 6,
+    "name": "Golden Glow Perfume",
+    "category": "Aura",
+    "brand": "Skinn",
+    "price": 0,
+    "stock": 30,
+    "image": "/images/perfume.jpg",
+    "description": "Elegant fragrance with a luxurious bottle design and long-lasting fresh aroma for daily wear."
+  },
+  {
+    "id": 7,
+    "name": "Nike Air Glide",
+    "category": "Foot Wears",
+    "brand": "Nike",
+    "price": 0,
+    "stock": 30,
+    "image": "/images/sports-1.jpg",
+    "description": "Lightweight white sneakers designed for all-day comfort and effortless style."
+  },
+  {
+      "id": 8,
+      "name": "Nike Power Strap",
+      "category": "Foot Wears",
+      "brand": "Nike",
+      "price": 0,
+      "stock": 30,
+      "image": "/images/sports-3.jpg",
+      "description": "High-support training shoes with secure straps for stability and performance."
+    },
+    {
+        "id": 9,
+    "name": "SkyPulse Smartwatch",
+    "category": "Aura",
+    "brand": "FitTech",
+    "price": 0,
+    "stock": 20,
+    "image": "/images/watch-1.jpg",
+    "description":"Smartwatch with fitness tracking, sleek design, and everyday connectivity."
+  },
+  {
+      "id": 10,
+      "name": "Trousers",
+      "category": "Pants & Trousers",
+      "brand": "InWeave",
+      "price": 0,
+      "stock": 30,
+      "image": "/images/f7.jpg",
+      "description":"Lightweight casual trousers designed for comfort and effortless wear."
+    },
+    {
+        "id": 11,
+        "name": "Belt",
+    "category": "Aura",
+    "brand": "Oakline",
+    "price": 0,
+    "stock": 30,
+    "image": "/images/belt.jpg",
+    "description": "Classic leather belt crafted for a timeless everyday look."
+  },
+  {
+    "id": 12,
+    "name": "Shorts",
+    "category": "Pants & Trousers",
+    "brand": "H&M",
+    "price": 0,
+    "stock": 20,
+    "image": "/images/shorts-1.jpg",
+    "description": "Comfortable matching outfit designed for a relaxed modern style."
+  }
+]
